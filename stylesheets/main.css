@@ -1,4 +1,3 @@
-
 html{
 	font-family: nexa_lightregular, Helvetica, Arial, sans serif;
 	font-size: 30px;
@@ -113,7 +112,7 @@ li{
 #bilder li {
 	display: block;
 	float: left;
-	width: 150px;
+	max-width: 150px;
 	padding-left: 10px;
 	padding-right: 10px;
 }
